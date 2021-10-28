@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="321.26px"
-   viewBox="0 0 210 297"
+   width="227.15701"
+   height="137.9151"
+   viewBox="0 0 60.101959 127.50042"
    version="1.1"
    id="svg3719"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="367.31472"
-     inkscape:cy="151.46371"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="114.59707"
+     inkscape:cy="93.336777"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,11 @@
      inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata3716">
     <rdf:RDF>
@@ -51,27 +55,28 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-261.88218,-212)">
     <rect
        id="rect3721"
        width="140"
        height="42.5"
-       x="0"
+       x="186.93269"
        y="254.5"
-       style="fill:#803300;stroke-width:0.22548932"
+       style="fill:#aa4400;stroke-width:0.22548932"
        ry="0" />
     <rect
        style="fill:#d45500;stroke-width:0.22548932"
        id="rect3727"
-       width="70"
-       height="42.5"
-       x="0"
+       width="70.001068"
+       height="42.500416"
+       x="186.93269"
        y="212" />
     <rect
        style="fill:#d4ff2a;stroke-width:0.26458332"
        id="rect3729"
        width="140"
-       x="70"
+       x="256.93268"
        y="212"
        height="42.5" />
     <rect
@@ -79,7 +84,14 @@
        id="rect3731"
        width="70"
        height="42.5"
-       x="140"
+       x="326.93268"
        y="254.5" />
+    <rect
+       style="fill:#803300;stroke-width:0.92448485"
+       id="rect11"
+       width="210.0032"
+       height="42.500416"
+       x="186.93269"
+       y="297" />
   </g>
 </svg>
