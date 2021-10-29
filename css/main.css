@@ -1,12 +1,27 @@
-/* #logo {
+#header {
+  margin-top: 10px;
+}
+
+#tel {
+
+}
+
+#logo {
   width: 100%;
 }
 
-.rigth{
+.logo {
+  width: 10%;
+}
+
+.info{
+  width: 90%;
   text-align: right;
 }
 
+
+
 .container {
-  margin-left: 0;
-  margin-right: 0;
-} */
+  /* margin-left: 0; */
+  /* margin-right: 0; */
+}
